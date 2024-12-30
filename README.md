@@ -47,3 +47,7 @@ How to implement and fine-tune regression models.
 Comparison of algorithm performance using statistical metrics.
 
 Practical application of machine learning in real-world scenarios.
+
+🔍 Final Observation
+ 
+The Random Forest model emerged as the best performer for house price prediction, achieving the lowest MAE, MSE, RMSE, and the highest R² score, showcasing excellent predictive performance. Conversely, SVR and Decision Tree models underperformed, reflecting poor generalization to the dataset.
